@@ -1,8 +1,6 @@
-Hi there 👋
+### Hi there 👋
 
-<!--
-Welcome to my respiratory of my bio!
-
+Here is my facts!
 
 - 🔭 I’m currently working on Lead Bot.
 - 🌱 I’m currently learning discord.js
@@ -12,4 +10,4 @@ Welcome to my respiratory of my bio!
 - 📫 How to reach me: cuurleee@gmail.com
 - 😄 Pronouns: Im just funny and cool lmao 😂
 - ⚡ Fun fact: Im coding for hobies.
--->
+---
