@@ -2,6 +2,8 @@
 
 Here is my facts!
 
+---
+
 - 🔭 I’m currently working on Lead Bot.
 - 🌱 I’m currently learning discord.js
 - 👯 I’m looking to collaborate on Discord Bots.
