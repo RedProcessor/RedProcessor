@@ -18,3 +18,4 @@ Here is what about me!
 Just Feel Free To Follow Me!
 
 Instagram : ``cuurlee``
+Discord : ``Could Be Found At DISCORD.MD``
