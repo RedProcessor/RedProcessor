@@ -20,5 +20,5 @@ Just Feel Free To Follow Me!
 Instagram : ``cuurle.js``
 Discord : ``Could Be Found At DISCORD.MD``
 <p align="center">
- <div align="center"><img src="https://discord.c99.nl/widget/theme-3/515548625682694169.png"></div>
+ <div align="center"><img src="https://discord.c99.nl/widget/theme-3/515548625682694169.png"></div> 
  </p>
