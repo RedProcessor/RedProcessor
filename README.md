@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
+<h1 align="center">Oh Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A newbie developer from Turkey.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cuurle&label=Profile%20views&color=0e75b6&style=flat" alt="cuurle" /> </p>
 
-- 🔭 I’m currently working on **Şey Mi Dostum**
+- 🔭 I’m currently working on **Cooki**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
-- 📝 I regularly write articles on [cuurle.tk](cuurle.tk)
+- 📝 My website is [cuurle.tk](cuurle.tk)
 
 - 💬 Ask me about **node.js, discord.js and javascript**
 
