@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cuurle&label=Profile%20views&color=0e75b6&style=flat" alt="cuurle" /> </p>
 
-- 🔭 I’m currently working on **Cooki**
+- 🔭 I’m currently working on **Cooki & Ticker**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **node.js, discord.js and javascript**
 
 - 📫 How to reach me **cuurleee@gmail.com**
-
-- ⚡ Fun fact **I code 4 fun?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
