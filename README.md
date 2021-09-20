@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **node.js, discord.js and javascript**
 
-- 📫 How to reach me **mustafa@cuurle.xyz**
+- 📫 How to reach me **mustafa at cuurle.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
