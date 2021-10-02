@@ -4,12 +4,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cuurle&label=Profile%20views&color=0e75b6&style=flat" alt="cuurle" /> </p>
 <p align="center">
 - 🌱 I’m currently learning **nuxt.js and vue**
-
+<p align="center">
 - 📝 My website is [musti.codes](musti.codes)
-
+<p align="center">
 - 💬 Ask me about **anything**
-
+<p align="center">
 - 📫 How to reach me **mustafa at musti.codes**
+</p>
+</p>
+</p>
 </p>
 
 
