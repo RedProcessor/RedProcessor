@@ -1,5 +1,5 @@
 <h1 align="center">Oh Hi 👋, I'm Mustafa</h1>
-<h3 align="center">A newbie developer from Turkey.</h3>
+<h3 align="center">A cool developer from Turkey.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cuurle&label=Profile%20views&color=0e75b6&style=flat" alt="cuurle" /> </p>
 <p align="center">
