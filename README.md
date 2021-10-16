@@ -3,13 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cuurle&label=Profile%20views&color=0e75b6&style=flat" alt="cuurle" /> </p>
 <p align="center">
-- 🌱 I’m currently learning nuxt.js and vue
+- 🌱 I’m currently mastering JS and learning D.JS V13
 <p align="center">
 - 📝 My website is musti.codes
 <p align="center">
-- 💬 Ask me about anything
-<p align="center">
-- 📫 How to reach me mustafa@musti.codes
+- 💬 Fluent English and Turkish speaker.
+
 </p>
 </p>
 </p>
