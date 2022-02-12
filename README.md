@@ -1,4 +1,5 @@
-<p align="center"><img src="https://cdn.discordapp.com/banners/758758497138507786/ffcaa91d44b6e7681914ea89231350a9.png?size=1536" > </p>
+<p align="center">![image](https://user-images.githubusercontent.com/68755582/153702160-d3d2bf83-5a3e-43b0-b196-6a46298910f7.png)</p>
+
 <h1 align="center">Hey, I'm Mustafa.</h1>
 <h3 align="center">A cool person that does stuff™.</h3>
 
