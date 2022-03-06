@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/68755582/153702160-d3d2bf83-5a3e-43b0-b196-6a46298910f7.png)
+![image](https://user-images.githubusercontent.com/68755582/156926199-31925519-d0c9-4402-80ff-cb868b9c3ca2.png)
 
 <h1 align="center">Hey, I'm Mustafa.</h1>
 <h3 align="center">A cool person that does stuff™.</h3>
