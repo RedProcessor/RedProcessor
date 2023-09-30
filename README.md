@@ -8,8 +8,8 @@ booting command line...
                    .##@                   -----------------
                   .####@                  Username: mustafa
                   @#####@                 Alias: musti, mustyx
-                . *######@                Discord: mustyx#1528 
-               .##@o@#####@               Website: musti.codes
+                . *######@                Software and computers <3 
+               .##@o@#####@               Website: consoled.me
               /############@            
              /##############@             
             @######@**%######@            
